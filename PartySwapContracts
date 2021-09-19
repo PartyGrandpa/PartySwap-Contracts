@@ -1,0 +1,64 @@
+PartySwap is a Decentralized Exchange (DEX) on the Avalanche Network; It works as an Automated Market Maker (AMM) where users can do permissionless swaps between currencies adding the use of smart contracts to create markets for any given pair of tokens.
+
+The PartySwap users can earn our reward token $PARTY by being Liquidity Providers on our platform; users can earn Yields on our farming pairs called "Pinatas" and our single-sided pools, better known as "Jacuzzis."
+
+The Project focuses on giving the users a good experience while using Decentralized Finance (DeFi) on Avalanche, adding additional features not found on other Avalanche DEXs having a unique and fun branding.
+
+In the second phase of the platform, we will also increase the utility of the platform token $PARTY, adding a lottery and a wide range of games where the PartySwap users can earn $PARTY rewards by playing or betting against other users.
+
+In the future, we plan to integrate a Decentralized Autonomous Organization (DAO) and a Subnet in the Avalanche Network, mainly centered on bringing a more decentralized approach into the decision-making of our Project and increasing the development possibilities.
+
+Website: https://app.partyswap.io/#/home
+
+CoinMarketCap: https://coinmarketcap.com/currencies/party
+
+PartySwap Contracts:
+
+PARTY Token: 0x69A61f38Df59CBB51962E69C54D39184E21C27Ec
+
+Factory: 0x58A08bc28f3E8dab8Fb2773D8f243bC740398b09
+
+Periphery: 0xff164Ede3E7C375E8764E9e3a22D3E35F780EEBC
+
+Piñatas Treasury Vester: 0xe193DeEC5FcA8D8cF4f9208599C569EaE4e57243
+
+Piñatas Liquidity Manager: 0x5a04d600B6a5B2D89946e839A9Af2f8BE11A1955
+
+Jacuzzi: 0x99c904CC0E919867404B49a804d30473E8344b1C
+
+
+PartySwap Pinata Pair Contracts:
+
+PARTY/AVAX: 0x1081e6063Dbe43e7150ec7D28a705beC98dFE070
+
+AVAX/WETH.e: 0x897c3e7A9bAECf1D096Ab480e50149E952fbB7F0
+
+AVAX/LINK.e: 0xE5CacbB457A3d96051C581615184da5660286798
+
+AVAX/USDT.e: 0x1d948BA1D22cD8091a56D45Cd01c92B3d5327452
+
+AVAX/DAI.e: 0xc8DFfF529D1FF649422905dB9Df05c8c3Ddc04A7
+
+AVAX/GB: 0x4a2BA12A8c13575d5Dea30944F8D9bD78Ef2e190
+
+AVAX/WBTC.e: 0x9201908b21115fEE17dB08ceA775c5D05851a6CA
+
+AVAX/XAVA: 0xB7517d0f70A6c884239345B0AC8AaFD436227Aa8
+
+AVAX/renDOGE: 0xb466124bd5ED4851f96A3Ca18f099FfeF7be2612
+
+AVAX/YAK:0x751c2f4a4B32D79B54FdF44c25e85B0aa5232bd0
+
+AVAX/PEFI: 0x6665a74B3BBe312d01d8Ffa9D2a078798a216c87
+
+AVAX/BAG: 0x8AdC76373B7c8fD9154528beD63E6ff30411cEb4
+
+AVAX/QI: 0x30Ac2b14320112a4922D5D3B926dcdcb19c502a8
+
+AVAX/SNOB: 0x1a70d0AcC5EBA0c8515911301a8B0EE5F5070c66
+
+AVAX/AVME: 0x12711334DB498BA2768161335016e2724A15e4E8
+
+AVAX/SHERPA: 0xaa0e5e6B3dAbbc0C34BB2480791fE2409b630F0F
+
+AVAX/PNG: 0xE5F2bDe8F9E23Bff7D9af7F4f6D98E1efC08A365
